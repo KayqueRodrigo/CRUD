@@ -1,2 +1,4 @@
-# Desenvolvimeto-em-JAVA-Senai
-Aqui vou inserir todas as atividades deste curso
+# CRUD JAVA
+CRUD são as quatro operações básicas de uma aplicação.
+
+
