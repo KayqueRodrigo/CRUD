@@ -2,7 +2,7 @@
 <div align="center"> 
 <img src="./crudjava.jpg" style="width:700px;height:400px;">
 
-  <h3>Criar, ler, atualizar, deletar são as quatro operações básicas de uma aplicação.<h3>
+  <p>Neste repositorio você vai encontrar atividades e o projeto CRUD. Onde foi trabalhado todos os aprendizados adquiridos neste curso</p>
   
 </div> 
 
