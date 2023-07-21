@@ -24,7 +24,7 @@ Mas com esse programa em JAVA, é possível descobrir o peso e o preço dessa ba
     
 ## Ferramentas🛠️
 
-Linguagem de programação JAVA,
+Linguagem de programação JAVA, JDK17,
 Paradigma de desenvolvimento: Orientado a objetos(Herança, Poliformismo, Encapsulamento e Abstração),
 IDE intellij.
 
